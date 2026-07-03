@@ -1,5 +1,7 @@
 # HoeGang.github.io
 
+Hi!
+
 Basic static homepage for GitHub Pages.
 
 This repository provides a stable public domain homepage for NohGang Works,
