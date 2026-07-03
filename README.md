@@ -10,11 +10,11 @@ NGST project information, support contact, and policy pages.
 ## Files
 
 - `index.html`: the public front page GitHub Pages serves at the site root.
-- `projects.html`: a list view for public projects.
-- `ngst.html`: the first project page for NGST, short for Noh Gang Smart Tools.
+- `projects/index.html`: a list view for public projects served at `/projects/`.
+- `ngst/index.html`: the first project page for NGST, short for Noh Gang Smart Tools, served at `/ngst/`.
 - `privacy/index.html`: the NohGang Works website privacy policy served at `/privacy/`.
-- `privacy/ngst-express-it.html`: the NGST Express It app privacy policy.
-- `privacy.html`: redirect for the previous privacy URL.
+- `privacy/ngst-express-it/index.html`: the NGST Express It app privacy policy served at `/privacy/ngst-express-it/`.
+- `privacy.html`, `projects.html`, `ngst.html`, `privacy/ngst-express-it.html`: redirects for previous `.html` URLs.
 - `styles.css`: responsive styling for the homepage.
 - `site.js`: small navigation behavior for the mobile privacy menu.
 - `assets/hero-space-background.png`: local visual asset for the homepage hero.
