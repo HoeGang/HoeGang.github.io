@@ -16,7 +16,8 @@ NGST project information, support contact, and policy pages.
 - `privacy/ngst-express-it.html`: the NGST Express It app privacy policy.
 - `privacy.html`: redirect for the previous privacy URL.
 - `styles.css`: responsive styling for the homepage.
-- `assets/hero-background.png`: local visual asset for the homepage hero.
+- `site.js`: small navigation behavior for the mobile privacy menu.
+- `assets/hero-space-background.png`: local visual asset for the homepage hero.
 - `.nojekyll`: keeps GitHub Pages in plain static-file mode.
 
 ## Local preview
