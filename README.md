@@ -16,6 +16,7 @@ Homepage from this repo: https://nohhoegang.com
 - `ngst/index.html`: the first project page for NGST, short for Noh Gang Smart Tools, served at `/ngst/`.
 - `privacy/index.html`: the NohGang Works website privacy policy served at `/privacy/`.
 - `privacy/ngst-express-it/index.html`: the NGST Express It app privacy policy served at `/privacy/ngst-express-it/`.
+- `direct-note-print/index.html`: the static mobile print handoff for Direct Note Print. Printable data stays in the URL fragment and is not sent in the HTTP request.
 - `privacy.html`, `projects.html`, `ngst.html`, `privacy/ngst-express-it.html`: redirects for previous `.html` URLs.
 - `styles.css`: responsive styling for the homepage.
 - `site.js`: small navigation behavior for the mobile privacy menu.
